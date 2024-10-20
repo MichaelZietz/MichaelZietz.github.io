@@ -14,6 +14,8 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
+&nbsp;[Self Reflection](#reflection "Self Reflection")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Self Reflection_](#self-reflection "Self Reflection")<br/>
 
 
 ### _Professional SelfAssessment_
@@ -41,6 +43,7 @@ While in the SNHU's computer science program, I have learned and improved my abi
 | Python | IT Experience |
 
 Southern New Hampshire University's program enhanced my ability to swiftly acquire new skills, and it fostered my ability to solve problems with intellectual humility and leadership qualities. These hard skills—spanning computer and technology expertise, data analysis, software development, and technical writing—are showcased through the work presented in this ePortfolio. Together, they position me as a strong candidate for a software engineering role, emphasizing the development of algorithms that are comprehensible to both computers and, more importantly, humans.
+
 
 ### _Code Review Videos Link_
 
@@ -93,6 +96,7 @@ I have recreated this Python project as a Java mobile app using Android Studio t
 Artifact ORIGINAL files repository at [Original Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Original/Software%20Engineering%20and%20Design)
 
 Artifact ENHANCEMENT files repository at [Enhancement Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancements/Software%20Engineering%20and%20Design)
+For an in-depth review of the enhancements made to the original artifact visit [Software Design and Engineering Documentation]()
 
 ### _Artifact Algorithms and Data Structures_
 
@@ -107,6 +111,7 @@ This artifact was selected with the intention to correct known functionality iss
 Artifact ORIGINAL files repository at [Original Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/module7)
 
 Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/enhancement)
+For an in-depth review of the enhancements made to the original artifact visit [Algorithms and Data Structures Documentation]()
 
 ### _Artifact Databases_
 
@@ -121,7 +126,52 @@ I have selected this artifact to enhance because the successful recreation of th
 
 Artifact ORIGINAL files repository at [Original Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Original/Databases)
 
+<div style="text-align: center;">
+    <img src="images/GraziosoSalvareAllCats.png" width="800px" title="Grazioso Salvare All Cats" />
+    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard All Cats</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/GraziosoSalvareWaterRescue.png" width="800px" title="Grazioso Water Rescue" />
+    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Water Rescue</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/GraziosoSalvareDisasterRescue.png" width="800px" title="Grazioso Salvare Disaster Rescue" />
+    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Disaster Rescue</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/GraziosoSalvareReset.png" width="800px" title="Grazioso Salvare Reset" />
+    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Reset</em></p>
+</div>
+
 Artifact ENHANCEMENT files repository at [Enhancement Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancments/Databases)
+For an in-depth review of the enhancements made to the original artifact visit [Databases Documentation](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_5-2%20Milestone%20Four%20Enhancement%20Three%20Databases.docx)
+
+
+### _Self Reflection_
+
+<div style="text-align: center;">
+	<a href="IT145" title="Self Reflection">
+		<img src="https://img.shields.io/badge/ePortfolio-Self_Reflection-orange.svg?style=for-the-badge&logo=thealgorithms" alt="ePortfolio: Self Reflection" />
+	</a>
+</div>
+
+[Journal: What Makes a Productive Code Review?](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_2-1%20Journal.docx)
+This paper discusses what makes a productive code review and how to successfully critique, record, and discuss enhancements for the code base being studied. 
+
+[Journal: Marketing With ePortfolios and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_3-1%20Journal.docx)
+This paper reflects on how this ePortfolio might impact my career options and make me stand out as a candidate for employers. 
+
+[Journal: Career Choice and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_4-1%20Journal.docx)
+This paper is a course submission reflection of how my career journey has been impacted by my studies at SNHU in pursuit of my bachelor's in computer science with a concentration in software engineering. 
+
+[Jounral: Computer Science Trends and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_5-1%20Journal.docx)
+This paper delves into a research discussion on new computer science trends that I've noticed in the field. It reviews the emerging popular use of concepts like "Zero Trust" policy making and large language artificial intelligence models like ChatGPT. I look at how these trends affect not just the developers utilizing them but also the affected trends for users and the field of study. 
+
+[Jounral: Emerging Technology and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_6-1%20Journal.docx)
+This paper takes a look at emerging technologies in computer science. I specifically research and discuss API resources like OpenAI and Slant3D's 3D printing API, how they can impact my career, the computer science field, and their communities. 
 
 <div style="text-align: right;">
     <a href="#">
