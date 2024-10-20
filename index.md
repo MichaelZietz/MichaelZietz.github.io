@@ -161,12 +161,12 @@ Artifact ORIGINAL files repository at [Original Algorithms and Data Structures](
 </div>
 
 <div style="text-align: center;">
-    <img src="images/TravlrGetawaysBookTripScreen.png" width="800px" title="Travlr Getaways Book Trip Screen" />
+    <img src="images/TravlrGetawaysBookTripScreen.png" width="400px" title="Travlr Getaways Book Trip Screen" />
     <p><em>Figure X - Travlr Getaways Full Stack Book Trip Screen</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="images/TravlrGetawaysEditTripScreen.png" width="800px" title="Travlr Getaways Edit Trip Screen" />
+    <img src="images/TravlrGetawaysEditTripScreen.png" width="400px" title="Travlr Getaways Edit Trip Screen" />
     <p><em>Figure X - Travlr Getaways Full Stack Edit Trip Screen</em></p>
 </div>
 
