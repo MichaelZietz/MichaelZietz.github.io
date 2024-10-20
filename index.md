@@ -19,8 +19,8 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 ### _Professional SelfAssessment_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
-		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
+	<a href="IT145" title="Professional Self Assessment">
+		<img src="https://img.shields.io/badge/Artifact-Professional_Self_Assessment-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Professional Self Assessment" />
 	</a>
 </div>
 
@@ -46,7 +46,7 @@ Southern New Hampshire University's program enhanced my ability to swiftly acqui
 
 <div style="text-align: center;">
 	<a href="IT145" title="Code Reviews">
-		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
+		<img src="https://img.shields.io/badge/Artifact-Code_Reviews-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Code Reviews" />
 	</a>
 </div>
 
@@ -83,16 +83,16 @@ This artifact was developed for a previous course, CS-340 Client/Server Developm
 ### _Artifact Software Design and Engineering_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
-		<img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
+	<a href="IT145" title="Artifact: Software Design and Engineering">
+		<img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Software Design and Engineering" />
 	</a>
 </div>
 
 I have recreated this Python project as a Java mobile app using Android Studio to improve the artifact’s base functionality through implementing new features, correcting known issues, and improving both the error handling and comments. New feature additions include opponents, with their own sets of properties, for the characters to simulate combat, and a rounds system to challenge the user’s character with procedurally more difficult enemies to face. Between each round, the user will have the option to fight or flee, and once the user is defeated in combat or flees their first time the simulation ends, showing a collection of statistics their character was able to achieve. The final improvement I seek to add is creating a permanent record outside the application’s run instance that saves the user’s highest recorded attempts. 
 
-Artifact ORIGINAL files repository at [Original Software Design and Engineering](https://github.com/MichaelZietz/)
+Artifact ORIGINAL files repository at [Original Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Original/Software%20Engineering%20and%20Design)
 
-Artifact ENHANCEMENT files repository at [Enhancement Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/0c6c655453396452f280dc972ab3579c100a48f1/Enhancments/Software%20Engineering%20and%20Design)
+Artifact ENHANCEMENT files repository at [Enhancement Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancements/Software%20Engineering%20and%20Design)
 
 ### _Artifact Algorithms and Data Structures_
 
@@ -111,7 +111,7 @@ Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Struct
 ### _Artifact Databases_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
+	<a href="IT145" title="Artifact: Databases">
 		<img src="https://img.shields.io/badge/Artifact-Databases-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Databases" />
 	</a>
 </div>
@@ -119,9 +119,9 @@ Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Struct
 I have selected this artifact to enhance because the successful recreation of this application initially designed for Linux OS demonstrates my understanding of the Python language as well as Dash, skills deploying MongoDB and CRUD functionality, and ability to reproduce and recreate scripts inside Jupyter Notebook. I sought to enhance this application’s current GUI, as its pie chart often results in unappealing visuals that clutter the screen, migrate the project, as it was initially created for a virtual Linux-based lab environment, named Apporto, and recreate it in a Windows OS environment. This required me to install and coordinate compatible versions of Python and MongoDB. For this application, the PyMongo library is need to be utilized in order to successfully connect Dash’s capabilities with MongoDB. The recreated application must include authentication before allowing access to CRUD features as only specified individuals should be granted permissions to modify stored data. 
 
 
-Artifact ORIGINAL files repository at [Original Databases](https://github.com/MichaelZietz/Original/Databases)
+Artifact ORIGINAL files repository at [Original Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Original/Databases)
 
-Artifact ENHANCEMENT files repository at [Enhancement Databases](https://github.com/MichaelZietz/Enhancments/Databases)
+Artifact ENHANCEMENT files repository at [Enhancement Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancments/Databases)
 
 <div style="text-align: right;">
     <a href="#">
