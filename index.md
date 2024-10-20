@@ -6,8 +6,8 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Professional SelfAssessment_](#portfolio-considerations "Portfolio Considerations")<br/>
-&nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
+&nbsp;[Code Reviews](#codereview "Code Reviews")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews "Code Reviews")<br/>
 &nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering "Artifact Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
@@ -21,8 +21,8 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 ### _Professional SelfAssessment_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Professional Self Assessment">
-		<img src="https://img.shields.io/badge/Artifact-Professional_Self_Assessment-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Professional Self Assessment" />
+	<a href="IT145" title="Professional Self-Assessment">
+		<img src="https://img.shields.io/badge/ePortfolio-Professional_Self_Assessment-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Professional Self-Assessment" />
 	</a>
 </div>
 
@@ -44,12 +44,30 @@ While in the SNHU's computer science program, I have learned and improved my abi
 
 Southern New Hampshire University's program enhanced my ability to swiftly acquire new skills, and it fostered my ability to solve problems with intellectual humility and leadership qualities. These hard skills—spanning computer and technology expertise, data analysis, software development, and technical writing—are showcased through the work presented in this ePortfolio. Together, they position me as a strong candidate for a software engineering role, emphasizing the development of algorithms that are comprehensible to both computers and, more importantly, humans.
 
+For a more indepth narrative for self-assessment, please visit 
+
+<div>
+	<p><em>Through this ePortfolio's display of artifact enhancements, I seek to showcase that I have successfully acheived the following course outcomes:</em></p>
+</div>
+
+1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
+2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
+3. Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+4. Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+5. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
+    </a>
+</div>
+
 
 ### _Code Review Videos Link_
 
 <div style="text-align: center;">
 	<a href="IT145" title="Code Reviews">
-		<img src="https://img.shields.io/badge/Artifact-Code_Reviews-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Code Reviews" />
+		<img src="https://img.shields.io/badge/ePortfolio-Code_Reviews-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Code Reviews" />
 	</a>
 </div>
 
@@ -81,6 +99,11 @@ In the following code review video, I walk through the existing artifact's code 
 </div>
 This artifact was developed for a previous course, CS-340 Client/Server Development, at SNHU. The client, Grazioso Salvare, needed to interact with their existing data from animal shelters. This artifact intended to identify and categorize animals which have been entered into the system based on their criteria. Grazioso Salvare needed to use this software to identify animal profiles to train for various tasks, and they have requested this project be open source and accessible on GitHub to aid other, similar organizations. Rather than manually sorting through each database, which can take tedious and time-consuming effort, this software will reduce this human waste by requiring simple inputs to retrieve data from databases quickly. It will be able to create new entries, read/search for existing ones, update entries, and delete them as well.
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
+    </a>
+</div>
 
 
 ### _Artifact Software Design and Engineering_
@@ -98,6 +121,13 @@ Artifact ORIGINAL files repository at [Original Software Design and Engineering]
 Artifact ENHANCEMENT files repository at [Enhancement Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancements/Software%20Engineering%20and%20Design)
 For an in-depth review of the enhancements made to the original artifact visit [Software Design and Engineering Documentation]()
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
+    </a>
+</div>
+
+
 ### _Artifact Algorithms and Data Structures_
 
 <div style="text-align: center;">
@@ -110,8 +140,45 @@ This artifact was selected with the intention to correct known functionality iss
 
 Artifact ORIGINAL files repository at [Original Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/module7)
 
+<div style="text-align: center;">
+    <img src="images/TravlrGetawaysLogin.png" width="800px" title="Travlr Getaways Login" />
+    <p><em>Figure X - Travlr Getaways Login Screenshot</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/TravlrGetawaysLoggedOut.png" width="800px" title="Travlr Getaways Logged Out" />
+    <p><em>Figure X - Travlr Getaways Full Stack Logged Out</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/TravlrGetawysGuestHomeScreen.png" width="800px" title="Travlr Getawys Guest Home Screen" />
+    <p><em>Figure X - Travlr Getaways Full Stack Guest Home Screen.png</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/TravlrGetawaysAdminHomeScreen.png" width="800px" title="Travlr Getaways Admin Home Screen" />
+    <p><em>Figure X - Travlr Getaways Full Stack Admin Home Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/TravlrGetawaysBookTripScreen.png" width="800px" title="Travlr Getaways Book Trip Screen" />
+    <p><em>Figure X - Travlr Getaways Full Stack Book Trip Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/TravlrGetawaysEditTripScreen.png" width="800px" title="Travlr Getaways Edit Trip Screen" />
+    <p><em>Figure X - Travlr Getaways Full Stack Edit Trip Screen</em></p>
+</div>
+
 Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/enhancement)
 For an in-depth review of the enhancements made to the original artifact visit [Algorithms and Data Structures Documentation]()
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
+    </a>
+</div>
+
 
 ### _Artifact Databases_
 
@@ -149,6 +216,12 @@ Artifact ORIGINAL files repository at [Original Databases](https://github.com/Mi
 Artifact ENHANCEMENT files repository at [Enhancement Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancments/Databases)
 For an in-depth review of the enhancements made to the original artifact visit [Databases Documentation](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_5-2%20Milestone%20Four%20Enhancement%20Three%20Databases.docx)
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
+    </a>
+</div>
+
 
 ### _Self Reflection_
 
@@ -167,14 +240,14 @@ This paper reflects on how this ePortfolio might impact my career options and ma
 [Journal: Career Choice and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_4-1%20Journal.docx)
 This paper is a course submission reflection of how my career journey has been impacted by my studies at SNHU in pursuit of my bachelor's in computer science with a concentration in software engineering. 
 
-[Jounral: Computer Science Trends and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_5-1%20Journal.docx)
+[Journal: Computer Science Trends and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_5-1%20Journal.docx)
 This paper delves into a research discussion on new computer science trends that I've noticed in the field. It reviews the emerging popular use of concepts like "Zero Trust" policy making and large language artificial intelligence models like ChatGPT. I look at how these trends affect not just the developers utilizing them but also the affected trends for users and the field of study. 
 
-[Jounral: Emerging Technology and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_6-1%20Journal.docx)
+[Journal: Emerging Technology and Artifact Update](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/0ba0cd5ccf0d79db0638cce3ddbbe808cfb6d9bd/Documents/Zietz_Michael_6-1%20Journal.docx)
 This paper takes a look at emerging technologies in computer science. I specifically research and discuss API resources like OpenAI and Slant3D's 3D printing API, how they can impact my career, the computer science field, and their communities. 
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Beginning &#8593;</button>
     </a>
 </div>
