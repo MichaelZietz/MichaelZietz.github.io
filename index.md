@@ -21,7 +21,7 @@ This ePortfolio integrates the knowledge and skills I gained and developed throu
 ### _Professional SelfAssessment_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Professional Self-Assessment">
+	<a href="#" title="Professional Self-Assessment">
 		<img src="https://img.shields.io/badge/ePortfolio-Professional_Self_Assessment-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Professional Self-Assessment" />
 	</a>
 </div>
@@ -68,7 +68,7 @@ For a more indepth narrative for self-assessment, please review [Professional Se
 ### _Code Review Videos Link_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Code Reviews">
+	<a href="#" title="Code Reviews">
 		<img src="https://img.shields.io/badge/ePortfolio-Code_Reviews-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Code Reviews" />
 	</a>
 </div>
@@ -111,7 +111,7 @@ This artifact was developed for a previous course, CS-340 Client/Server Developm
 ### _Artifact Software Design and Engineering_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Software Design and Engineering">
+	<a href="#" title="Artifact: Software Design and Engineering">
 		<img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Software Design and Engineering" />
 	</a>
 </div>
@@ -120,8 +120,33 @@ I have recreated this Python project as a Java mobile app using Android Studio t
 
 Artifact ORIGINAL files repository at [Original Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Original/Software%20Engineering%20and%20Design)
 
+<div style="text-align: center;">
+    <img src="images/RelentlessHeroLoginScreen.png" width="200px" title="Relentless Hero Login Screen" />
+    <p><em>Figure 4 - Relentless Hero Login Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/RelentlessHeroWelcomeScreen.png" width="200px" title="Relentless Hero Welcome Screen" />
+    <p><em>Figure 5 - Relentless Hero Welcome Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/RelentlessHeroCreateScreen.png" width="200px" title="Relentless Hero Create Screen" />
+    <p><em>Figure 6 - Relentless Hero Create Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/RelentlessHeroCombatScreen.png" width="200px" title="Relentless Hero Combat Screen" />
+    <p><em>Figure 7 - Relentless Hero Combat Screen</em></p>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/RelentlessHeroDefeatScreen.png" width="200px" title="Relentless Hero Defeat Screen" />
+    <p><em>Figure 8 - Relentless Hero Defeat Screen</em></p>
+</div>
+
 Artifact ENHANCEMENT files repository at [Enhancement Software Design and Engineering](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancements/Software%20Engineering%20and%20Design)
-For an in-depth review of the enhancements made to the original artifact visit [Software Design and Engineering Documentation]()
+For an in-depth review of the enhancements made to the original artifact visit [Software Design and Engineering Documentation](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/530a6a8e767ee1988b1cda5306c5b8865634164a/Documents/Zietz_Michael_3-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering.docx)
 
 <div style="text-align: right;">
     <a href="#">
@@ -133,7 +158,7 @@ For an in-depth review of the enhancements made to the original artifact visit [
 ### _Artifact Algorithms and Data Structures_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Algorithms and Data Structure">
+	<a href="#" title="Artifact: Algorithms and Data Structure">
 		<img src="https://img.shields.io/badge/Artifact-Algorithms_and_Data_Structure-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Algorithms and Data Structure" />
 	</a>
 </div>
@@ -144,32 +169,32 @@ Artifact ORIGINAL files repository at [Original Algorithms and Data Structures](
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawaysLogin.png" width="800px" title="Travlr Getaways Login" />
-    <p><em>Figure X - Travlr Getaways Login Screenshot</em></p>
+    <p><em>Figure 9 - Travlr Getaways Login Screenshot</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawaysLoggedOut.png" width="800px" title="Travlr Getaways Logged Out" />
-    <p><em>Figure X - Travlr Getaways Full Stack Logged Out</em></p>
+    <p><em>Figure 10 - Travlr Getaways Full Stack Logged Out</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawysGuestHomeScreen.png" width="800px" title="Travlr Getawys Guest Home Screen" />
-    <p><em>Figure X - Travlr Getaways Full Stack Guest Home Screen.png</em></p>
+    <p><em>Figure 11 - Travlr Getaways Full Stack Guest Home Screen.png</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawaysAdminHomeScreen.png" width="800px" title="Travlr Getaways Admin Home Screen" />
-    <p><em>Figure X - Travlr Getaways Full Stack Admin Home Screen</em></p>
+    <p><em>Figure 12 - Travlr Getaways Full Stack Admin Home Screen</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawaysBookTripScreen.png" width="400px" title="Travlr Getaways Book Trip Screen" />
-    <p><em>Figure X - Travlr Getaways Full Stack Book Trip Screen</em></p>
+    <p><em>Figure 13 - Travlr Getaways Full Stack Book Trip Screen</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/TravlrGetawaysEditTripScreen.png" width="400px" title="Travlr Getaways Edit Trip Screen" />
-    <p><em>Figure X - Travlr Getaways Full Stack Edit Trip Screen</em></p>
+    <p><em>Figure 14 - Travlr Getaways Full Stack Edit Trip Screen</em></p>
 </div>
 
 Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/enhancement)
@@ -185,7 +210,7 @@ For an in-depth review of the enhancements made to the original artifact visit [
 ### _Artifact Databases_
 
 <div style="text-align: center;">
-	<a href="IT145" title="Artifact: Databases">
+	<a href="" title="Artifact: Databases">
 		<img src="https://img.shields.io/badge/Artifact-Databases-orange.svg?style=for-the-badge&logo=thealgorithms" alt="Artifact: Databases" />
 	</a>
 </div>
@@ -197,22 +222,22 @@ Artifact ORIGINAL files repository at [Original Databases](https://github.com/Mi
 
 <div style="text-align: center;">
     <img src="images/GraziosoSalvareAllCats.png" width="800px" title="Grazioso Salvare All Cats" />
-    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard All Cats</em></p>
+    <p><em>Figure 15 - Grazioso Salvare Search Web App Client/Database Dashboard All Cats</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/GraziosoSalvareWaterRescue.png" width="800px" title="Grazioso Water Rescue" />
-    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Water Rescue</em></p>
+    <p><em>Figure 16 - Grazioso Salvare Search Web App Client/Database Dashboard Water Rescue</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/GraziosoSalvareDisasterRescue.png" width="800px" title="Grazioso Salvare Disaster Rescue" />
-    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Disaster Rescue</em></p>
+    <p><em>Figure 17 - Grazioso Salvare Search Web App Client/Database Dashboard Disaster Rescue</em></p>
 </div>
 
 <div style="text-align: center;">
     <img src="images/GraziosoSalvareReset.png" width="800px" title="Grazioso Salvare Reset" />
-    <p><em>Figure X - Grazioso Salvare Search Web App Client/Database Dashboard Reset</em></p>
+    <p><em>Figure 18 - Grazioso Salvare Search Web App Client/Database Dashboard Reset</em></p>
 </div>
 
 Artifact ENHANCEMENT files repository at [Enhancement Databases](https://github.com/MichaelZietz/MichaelZietz.github.io/tree/main/Enhancments/Databases)
