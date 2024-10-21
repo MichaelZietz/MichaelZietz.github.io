@@ -44,7 +44,9 @@ While in the SNHU's computer science program, I have learned and improved my abi
 
 Southern New Hampshire University's program enhanced my ability to swiftly acquire new skills, and it fostered my ability to solve problems with intellectual humility and leadership qualities. These hard skills—spanning computer and technology expertise, data analysis, software development, and technical writing—are showcased through the work presented in this ePortfolio. Together, they position me as a strong candidate for a software engineering role, emphasizing the development of algorithms that are comprehensible to both computers and, more importantly, humans.
 
-For a more indepth narrative for self-assessment, please visit 
+I maintain that my ePortfolio highlights my ability to apply well-established and innovative techniques. I created computer solutions that deliver value and meet industry-specific goals, illustrated through features such as importing CSV data files into MongoDB, integrating dependencies like the Python PyMongo driver, Python libraries, the Dash framework, and Python source code, and utilizing a CRUD module to manage data imported into MongoDB. I designed and assessed computing solutions to solve problems using algorithmic principles and computer science practices and standards suitable to the task, while balancing the trade-offs involved in design choices, considering relationships and functionality between different classes and methods by using arguments, parameters, and variables in scope in JAVA programming. All the enhanced artifacts showcase my focus on applying a security mindset during development to anticipate potential exploits in software architecture and design, address design flaws, and ensure the privacy and enhanced security of data and resources.
+
+For a more indepth narrative for self-assessment, please review [Professional Self Assessment](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/a7f10198c2b350f3f747da892786eb4e5adbdd60/Documents/Zietz_Michael_7-1%20Professional%20Self-Assessment.docx)
 
 <div>
 	<p><em>Through this ePortfolio's display of artifact enhancements, I seek to showcase that I have successfully acheived the following course outcomes:</em></p>
@@ -171,7 +173,7 @@ Artifact ORIGINAL files repository at [Original Algorithms and Data Structures](
 </div>
 
 Artifact ENHANCEMENT files repository at [Enhancement Algorithms and Data Structures](https://github.com/MichaelZietz/Full-Stack-Development/tree/enhancement)
-For an in-depth review of the enhancements made to the original artifact visit [Algorithms and Data Structures Documentation]()
+For an in-depth review of the enhancements made to the original artifact visit [Algorithms and Data Structures Documentation](https://github.com/MichaelZietz/MichaelZietz.github.io/blob/a7f10198c2b350f3f747da892786eb4e5adbdd60/Documents/Zietz_Michael_4-2%20Milestone%20Three%20Enhancement%20Two%20Data%20Structure.docx)
 
 <div style="text-align: right;">
     <a href="#">
